@@ -249,10 +249,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Dhananjaya Wanniarachchi**
+**Pasindu Dhananjaya Wanninayake**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Wanni46-181717?style=flat-square&logo=github)](https://github.com/Wanni46)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://lk.linkedin.com/in/pasindu-dhananjaya-wanninayake-759877235))
 
 *Computer Science Student | Systems Programming Enthusiast*
 
