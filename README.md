@@ -275,6 +275,12 @@ If this project helped you understand memory systems better, please consider:
 
 ---
 
+## 📝 Notes
+This project is created for educational purposes as part of the **Operating Systems (EEX5335)** course at the **Open University of Sri Lanka**.  
+It is a simplified simulation of memory management concepts and does not represent the full behavior of real computer systems.
+
+---
+
 <details>
 <summary><b>🔍 Project Statistics</b></summary>
 
